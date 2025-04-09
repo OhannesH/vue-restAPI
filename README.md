@@ -4,7 +4,7 @@
 #Databse infromation
 localhost/8080
 login: developer
-password: secret
+password: secret123
 
 #Website information
 #User login
